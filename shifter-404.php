@@ -2,7 +2,7 @@
 /*
 Plugin Name: Shifter Error 404
 Plugin URI: https://github.com/getshifter/
-Description: Hotfix for Shifter 404s
+Description: Hotfix for Shifter 404s. This plugin generates a 404.php for WordPress FSE enabled sites.
 Author: Shifter
 Version: 0.1.0
 Author URI: https://www.getshifter.io
