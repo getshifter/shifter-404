@@ -27,4 +27,4 @@ function create_404()
   fclose($fp);
 }
 
-add_action( 'save_post_wp_template', 'create_404');
+add_action( 'save_post', 'create_404');
